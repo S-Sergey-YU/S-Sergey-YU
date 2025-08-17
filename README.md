@@ -76,17 +76,13 @@
 
 <br>
 
-## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
-[<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate2.png)
-[<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
-[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/German-D/German-D/main/stepic_ru.png)
-
 <br>
 
 ## 🎒 Образование
 [<img src="/certificate_ru.png" width="280px" hspace="10px" alt="Сертификат о прохождении базового курса на русском языке">](https://raw.githubusercontent.com/S-Sergey-YU/S-Sergey-YU/refs/heads/main/certificate_ru.png)
 [<img src="/certificate_en.png" width="280px" hspace="10px" alt="Сертификат о прохождении базового курса на английском языке">](https://raw.githubusercontent.com/S-Sergey-YU/S-Sergey-YU/refs/heads/main/certificate_en.png)
+[<img src="/certificate_all_ru.png" width="280px" hspace="10px" alt="Сертификат о прохождении курса уровня Middle на русском языке">](https://raw.githubusercontent.com/S-Sergey-YU/S-Sergey-YU/refs/heads/main/certificate_all_ru.png)
+[<img src="/certificate_all_en.png" width="280px" hspace="10px" alt="Сертификат о прохождении курса уровня Middle на английском языке">](https://raw.githubusercontent.com/S-Sergey-YU/S-Sergey-YU/refs/heads/main/certificate_all_en.png)
 [<img src="/stepik_postman.png" width="280px" hspace="10px" alt="Сертификат Stepik: Postman для тестирования API">](https://raw.githubusercontent.com/S-Sergey-YU/S-Sergey-YU/refs/heads/main/stepik_postman.png)
 
 <br>
